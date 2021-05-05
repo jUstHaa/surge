@@ -1,3 +1,19 @@
 ## 自定义 需要代理的
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,ocsp.pki.goog
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,t.co
+DOMAIN,dc.albtls.t.co
+DOMAIN,github.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,whatismyipaddress.com
+
+#kexue
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,justmysocks.net
+DOMAIN-SUFFIX,bwh88.net
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,winnie.cloud
