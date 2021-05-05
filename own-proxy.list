@@ -14,6 +14,10 @@ DOMAIN,feeds.npr.org
 DOMAIN,podcastfeeds.nbcnews.com
 DOMAIN,podcasts.files.bbci.co.uk
 DOMAIN-SUFFIX,feedx.net
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,wireguard.com
+DOMAIN-SUFFIX,greatfire.org
 
 
 #kexue
