@@ -9,6 +9,12 @@ DOMAIN,dc.albtls.t.co
 DOMAIN,github.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,whatismyipaddress.com
+DOMAIN-SUFFIX,ohmyrss.com
+DOMAIN,feeds.npr.org
+DOMAIN,podcastfeeds.nbcnews.com
+DOMAIN,podcasts.files.bbci.co.uk
+DOMAIN-SUFFIX,feedx.net
+
 
 #kexue
 DOMAIN-SUFFIX,v2fly.org
