@@ -1,2 +1,4 @@
 ## 自定义 需要直连
 DOMAIN-SUFFIX,aliapp.org
+DOMAIN,injections.adguard.org
+DOMAIN,local.adguard.org
