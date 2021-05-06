@@ -19,6 +19,23 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,sinchew.com.my
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,reederapp.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN,elements-assets.envato.com
+DOMAIN,elements.envato.com
+DOMAIN-SUFFIX,apkmirror.com
+DOMAIN,miio2.yinhh.com
+DOMAIN,octocaptcha.com
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,steemit.com
+DOMAIN-SUFFIX,ping.pe
+DOMAIN-SUFFIX,3rdwavemeida.com
+DOMAIN-SUFFIX,tlanyan.me
+DOMAIN-SUFFIX,pincong.rocks
+DOMAIN-SUFFIX,wizcase.com
+DOMAIN-SUFFIX,pscp.tv
 
 
 #kexue
@@ -28,3 +45,4 @@ DOMAIN-SUFFIX,bwh88.net
 DOMAIN-SUFFIX,dlercloud.com
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,winnie.cloud
+DOMAIN-SUFFIX,bandwagonhost.com
