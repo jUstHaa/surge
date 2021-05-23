@@ -1,5 +1,5 @@
 ## 自定义 需要代理的
-DOMAIN-SUFFIX,app-measurement.com
+## DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,ocsp.pki.goog
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
