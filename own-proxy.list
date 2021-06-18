@@ -1,5 +1,5 @@
 ## 自定义 需要代理的
-## DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,ocsp.pki.goog
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
@@ -36,6 +36,26 @@ DOMAIN-SUFFIX,tlanyan.me
 DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,wizcase.com
 DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,ad.doubleclick.net
+DOMAIN-SUFFIX,lvv2.com,Proxy
+DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
+
+## pod
+DOMAIN-SUFFIX,acast.com
+DOMAIN-SUFFIX,podtrac.com
+DOMAIN-SUFFIX,tritondigital.com
+DOMAIN-SUFFIX,chtbl.com
+DOMAIN-SUFFIX,tritondigital.com
+DOMAIN-SUFFIX,traffic.omny.fm
+DOMAIN-SUFFIX,chrt.fm
+DOMAIN-SUFFIX,simplecastaudio.com
+DOMAIN-SUFFIX,pdst.fm
+
+## game
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,gcld-line.com
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,nintendo.com
 
 
 #kexue
