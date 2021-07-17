@@ -37,8 +37,16 @@ DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,wizcase.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,ad.doubleclick.net
-DOMAIN-SUFFIX,lvv2.com,Proxy
+DOMAIN-SUFFIX,lvv2.com
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN,reddit.com
+DOMAIN,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN,iceyun.top
+DOMAIN-SUFFIX,netb1.com
+DOMAIN-SUFFIX,idrivecompute.com
+DOMAIN-SUFFIX,naifei.pro
 
 ## pod
 DOMAIN-SUFFIX,acast.com
