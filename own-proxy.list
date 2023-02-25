@@ -18,6 +18,21 @@ IP-CIDR,5.28.195.0/24
 
 
 ## 自定义 需要代理的
+DOMAIN-SUFFIX,zlibcdn2.com
+DOMAIN-SUFFIX,b-ok.cc
+DOMAIN-SUFFIX,rfi.fr
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN,reuters.com
+DOMAIN-SUFFIX,sync.services.mozilla.com
+DOMAIN,raw.githubusercontent.com
+DOMAIN,download.mozilla.org
+DOMAIN,addons.mozilla.org
+DOMAIN-SUFFIX,behance.net
+DOMAIN-SUFFIX,ftcdn.net
+DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,dedipath.com
+DOMAIN,deepl-translator.p.rapidapi.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,ocsp.pki.goog
 DOMAIN-SUFFIX,bbc.co.uk
