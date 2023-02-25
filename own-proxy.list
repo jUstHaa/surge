@@ -18,6 +18,22 @@ IP-CIDR,5.28.195.0/24
 
 
 ## 自定义 需要代理的
+DOMAIN,infura-ipfs.io
+DOMAIN,download.sublimetext.com
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN,reddit.com
+DOMAIN,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN,iceyun.top
+DOMAIN-SUFFIX,netb1.com
+DOMAIN-SUFFIX,idrivecompute.com
+DOMAIN-SUFFIX,naifei.pro
+DOMAIN-SUFFIX,rocketgirls.space
+DOMAIN,edgedl.me.gvt1.com
+DOMAIN-SUFFIX,iplist.cc
+DOMAIN-SUFFIX,stolendata.net
+DOMAIN,store.steampowered.com
+
 DOMAIN-SUFFIX,zlibcdn2.com
 DOMAIN-SUFFIX,b-ok.cc
 DOMAIN-SUFFIX,rfi.fr

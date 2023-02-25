@@ -2,3 +2,12 @@
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN,injections.adguard.org
 DOMAIN,local.adguard.org
+DOMAIN-SUFFIX,amazon.cn
+DOMAIN,events.mapbox.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN,data.mistat.xiaomi.com,REJECT
+DOMAIN-SUFFIX,mxhichina.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN,io.xdun.net
+DOMAIN,imap-mail.outlook.com
