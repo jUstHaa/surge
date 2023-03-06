@@ -18,6 +18,19 @@ IP-CIDR,5.28.195.0/24
 
 
 ## 自定义 需要代理的
+DOMAIN,download.sublimetext.com
+DOMAIN,reddit.com
+DOMAIN,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,netb1.com
+DOMAIN-SUFFIX,idrivecompute.com
+DOMAIN-SUFFIX,naifei.pro
+DOMAIN-SUFFIX,rocketgirls.space
+DOMAIN-SUFFIX,behance.net
+DOMAIN,edgedl.me.gvt1.com
+DOMAIN,download.mozilla.org
+DOMAIN-SUFFIX,iplist.cc
+DOMAIN-SUFFIX,stolendata.net
 DOMAIN,infura-ipfs.io
 DOMAIN,download.sublimetext.com
 DOMAIN-SUFFIX,v2ray.com
@@ -114,6 +127,12 @@ DOMAIN-SUFFIX,traffic.omny.fm
 DOMAIN-SUFFIX,chrt.fm
 DOMAIN-SUFFIX,simplecastaudio.com
 DOMAIN-SUFFIX,pdst.fm
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,megaphone.fm
+DOMAIN-SUFFIX,streamguys1.com
+DOMAIN-SUFFIX,podcasts.apple.com
 
 ## game
 DOMAIN-SUFFIX,line-scdn.net
@@ -123,6 +142,8 @@ DOMAIN-SUFFIX,nintendo.com
 
 
 #kexue
+DOMAIN,iceyun.top
+DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,justmysocks.net
 DOMAIN-SUFFIX,bwh88.net
