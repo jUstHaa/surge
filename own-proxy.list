@@ -18,6 +18,8 @@ IP-CIDR,5.28.195.0/24
 
 
 ## 自定义 需要代理的
+DOMAIN-SUFFIX,pangea-cms.com
+DOMAIN-SUFFIX,voanews.com
 DOMAIN,download.sublimetext.com
 DOMAIN,reddit.com
 DOMAIN,redditmedia.com
