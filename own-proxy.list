@@ -17,49 +17,30 @@ IP-CIDR,149.154.175.0/24
 IP-CIDR,5.28.195.0/24
 
 
+## for Apple
+DOMAIN-SUFFIX,apple.news
+
+
 ## 自定义 需要代理的
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,pangea-cms.com
 DOMAIN-SUFFIX,voanews.com
 DOMAIN,download.sublimetext.com
-DOMAIN,reddit.com
-DOMAIN,redditmedia.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,netb1.com
 DOMAIN-SUFFIX,idrivecompute.com
-DOMAIN-SUFFIX,naifei.pro
 DOMAIN-SUFFIX,rocketgirls.space
 DOMAIN-SUFFIX,behance.net
 DOMAIN,edgedl.me.gvt1.com
-DOMAIN,download.mozilla.org
 DOMAIN-SUFFIX,iplist.cc
 DOMAIN-SUFFIX,stolendata.net
 DOMAIN,infura-ipfs.io
-DOMAIN,download.sublimetext.com
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN,reddit.com
-DOMAIN,redditmedia.com
-DOMAIN-SUFFIX,redd.it
-DOMAIN,iceyun.top
 DOMAIN-SUFFIX,netb1.com
-DOMAIN-SUFFIX,idrivecompute.com
-DOMAIN-SUFFIX,naifei.pro
-DOMAIN-SUFFIX,rocketgirls.space
-DOMAIN,edgedl.me.gvt1.com
-DOMAIN-SUFFIX,iplist.cc
-DOMAIN-SUFFIX,stolendata.net
 DOMAIN,store.steampowered.com
-
 DOMAIN-SUFFIX,zlibcdn2.com
-DOMAIN-SUFFIX,b-ok.cc
-DOMAIN-SUFFIX,rfi.fr
-DOMAIN-SUFFIX,zaobao.com
-DOMAIN,reuters.com
-DOMAIN-SUFFIX,sync.services.mozilla.com
 DOMAIN,raw.githubusercontent.com
-DOMAIN,download.mozilla.org
-DOMAIN,addons.mozilla.org
-DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,ftcdn.net
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,bootstrapcdn.com
@@ -67,20 +48,15 @@ DOMAIN-SUFFIX,dedipath.com
 DOMAIN,deepl-translator.p.rapidapi.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,ocsp.pki.goog
-DOMAIN-SUFFIX,bbc.co.uk
-DOMAIN-SUFFIX,bbci.co.uk
-DOMAIN-SUFFIX,bbc.com
+
 DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,t.me
 DOMAIN,dc.albtls.t.co
 DOMAIN,github.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,ohmyrss.com
-DOMAIN,feeds.npr.org
-DOMAIN,podcastfeeds.nbcnews.com
-DOMAIN,podcasts.files.bbci.co.uk
 DOMAIN-SUFFIX,feedx.net
-DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,greatfire.org
@@ -94,7 +70,6 @@ DOMAIN-SUFFIX,apkmirror.com
 DOMAIN,miio2.yinhh.com
 DOMAIN,octocaptcha.com
 DOMAIN-SUFFIX,zendesk.com
-DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,3rdwavemeida.com
@@ -105,17 +80,14 @@ DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,ad.doubleclick.net
 DOMAIN-SUFFIX,lvv2.com
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN,reddit.com
-DOMAIN,redditmedia.com
-DOMAIN-SUFFIX,redd.it
-DOMAIN,iceyun.top
+DOMAIN-SUFFIX,sync.services.mozilla.com
+DOMAIN,download.mozilla.org
+DOMAIN,download.mozilla.org
+DOMAIN,addons.mozilla.org
 DOMAIN-SUFFIX,netb1.com
 DOMAIN-SUFFIX,idrivecompute.com
 DOMAIN-SUFFIX,naifei.pro
 DOMAIN-SUFFIX,surge-activation.com
-DOMAIN-SUFFIX,npr.org
-DOMAIN-SUFFIX,download.sublimetext.com
 
 
 
@@ -136,6 +108,18 @@ DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,megaphone.fm
 DOMAIN-SUFFIX,streamguys1.com
 DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN-SUFFIX,rfi.fr
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,npr.org
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,b-ok.cc
+DOMAIN,feeds.npr.org
+DOMAIN,podcastfeeds.nbcnews.com
+DOMAIN,podcasts.files.bbci.co.uk
+
+
 
 ## game
 DOMAIN-SUFFIX,line-scdn.net
