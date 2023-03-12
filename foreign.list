@@ -138,7 +138,7 @@ DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,hockeyapp.net
-DOMAIN-SUFFIX,hotmail.com
+##DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,ift.tt
@@ -166,9 +166,9 @@ DOMAIN-SUFFIX,libsyn.com
 DOMAIN-SUFFIX,linode.com
 DOMAIN-SUFFIX,lithium.com
 DOMAIN-SUFFIX,littlehj.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,livefilestore.com
+## DOMAIN-SUFFIX,live.com
+## DOMAIN-SUFFIX,live.net
+## DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,macromedia.com
@@ -199,7 +199,7 @@ DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,orkut.com
 DOMAIN-SUFFIX,osxdaily.com
-DOMAIN-SUFFIX,outlook.com
+## DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,ow.ly
 DOMAIN-SUFFIX,paddleapi.com
 DOMAIN-SUFFIX,parallels.com
