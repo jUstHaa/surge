@@ -33,6 +33,8 @@ IP-CIDR,149.154.175.0/24,no-resolve
 IP-CIDR,5.28.195.0/24,no-resolve
 
 ## 常见国外域名列表
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,freegpt.one
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,adblockplus.org
