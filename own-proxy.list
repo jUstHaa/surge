@@ -22,6 +22,23 @@ DOMAIN-SUFFIX,apple.news
 
 
 ## 自定义 需要代理的
+DOMAIN-SUFFIX,tanzhen.openai3.xyz
+DOMAIN-SUFFIX,freeopenai.xyz
+DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,dingyu.me
+DOMAIN-SUFFIX,weekendhk.com
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,document360.io
+DOMAIN-SUFFIX,midjourney.com
+
 DOMAIN-SUFFIX,vercel-insights.com
 DOMAIN-SUFFIX,heapanalytics.com
 DOMAIN-SUFFIX,washingtonpost.com
