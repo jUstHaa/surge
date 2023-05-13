@@ -22,18 +22,18 @@ DOMAIN-SUFFIX,apple.news
 
 
 ## 自定义 需要代理的
-DOMAIN,cc-api-data.adobe.io
-DOMAIN,cctypekit.adobe.io
-DOMAIN,vercel.app
-DOMAIN-SUFFIX,pythonhosted.org
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,pkg.dev
-DOMAIN-SUFFIX,pitaya-clientai.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN,download-installer.cdn.mozilla.net
+## DOMAIN,cc-api-data.adobe.io
+## DOMAIN,cctypekit.adobe.io
+## DOMAIN,vercel.app
+## DOMAIN-SUFFIX,pythonhosted.org
+## DOMAIN-SUFFIX,pypi.org
+## DOMAIN-SUFFIX,pkg.dev
+## DOMAIN-SUFFIX,pitaya-clientai.com
+## DOMAIN-SUFFIX,tiktokcdn-us.com
+## DOMAIN-SUFFIX,tiktokv.com
+## DOMAIN,cdn.usefathom.com
+## DOMAIN-SUFFIX,anthropic.com
+## DOMAIN,download-installer.cdn.mozilla.net
 
 
 DOMAIN-SUFFIX,tanzhen.openai3.xyz
