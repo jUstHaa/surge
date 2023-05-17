@@ -1,10 +1,23 @@
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.org
+IP-CIDR,91.108.4.0/24,no-resolve
+IP-CIDR,91.108.8.0/24,no-resolve
+IP-CIDR,91.108.12.0/24,no-resolve
+IP-CIDR,91.108.16.0/24,no-resolve
+IP-CIDR,91.108.56.0/24,no-resolve
+IP-CIDR,149.154.165.0/24,no-resolve
+IP-CIDR,149.154.175.0/24,no-resolve
+IP-CIDR,149.154.160.0/24,no-resolve
+IP-CIDR,149.154.164.0/24,no-resolve
+IP-CIDR,149.154.167.0/24,no-resolve
+IP-CIDR,149.154.168.0/24,no-resolve
+IP-CIDR,149.154.171.0/24,no-resolve
+IP-CIDR,149.154.172.0/24,no-resolve
+IP-CIDR,149.154.175.0/24,no-resolve
+IP-CIDR,5.28.195.0/24,no-resolve
+
 ## 常见国外域名列表
 DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,freegpt.one
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abpchina.org
@@ -111,7 +124,7 @@ DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,hockeyapp.net
-## DOMAIN-SUFFIX,hotmail.com
+##DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,ift.tt
