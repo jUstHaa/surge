@@ -1,4 +1,21 @@
 ## 常见国外域名列表
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,dlercloud
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,duolingo
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,ttvnw
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,uk-live
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,youtube
+
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 
