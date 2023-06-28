@@ -53,7 +53,7 @@ DOMAIN,redirector.gvt1.com
 DOMAIN,time.android.com
 DOMAIN-SUFFIX,freegpt.one
 DOMAIN-SUFFIX,brew.sh
-DOMAIN-SUFFIX,sentry.io
+DOMAIN,sentry.io
 DOMAIN-SUFFIX,pangea-cms.com
 DOMAIN-SUFFIX,voanews.com
 DOMAIN,download.sublimetext.com
@@ -132,7 +132,8 @@ DOMAIN-SUFFIX,traffic.omny.fm
 DOMAIN-SUFFIX,chrt.fm
 DOMAIN-SUFFIX,simplecastaudio.com
 DOMAIN-SUFFIX,pdst.fm
-DOMAIN-SUFFIX,openai.com
+## DOMAIN-SUFFIX,openai.com
+DOMAIN,openai.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,megaphone.fm
