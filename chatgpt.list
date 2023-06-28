@@ -1,0 +1,5 @@
+# NAME: chatgpt
+
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
