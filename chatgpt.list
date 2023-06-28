@@ -2,5 +2,6 @@
 
 DOMAIN,ios.chat.openai.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,api.revenuecat.com
