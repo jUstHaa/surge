@@ -43,6 +43,26 @@ DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,document360.io
 DOMAIN-SUFFIX,midjourney.com
 
+DOMAIN,cc-api-data.adobe.io
+DOMAIN,cctypekit.adobe.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN,ocsp.r2m02.amazontrust.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,goofy-cdn.com
+DOMAIN,api.knock.app
+DOMAIN,iterm2.com
+DOMAIN,hubspot.sjv.io
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pkg.dev
+DOMAIN-SUFFIX,pitaya-clientai.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN,download-installer.cdn.mozilla.net
+DOMAIN-SUFFIX,coconut-flavour.com
+
 DOMAIN-SUFFIX,vercel-insights.com
 DOMAIN-SUFFIX,heapanalytics.com
 DOMAIN-SUFFIX,washingtonpost.com
