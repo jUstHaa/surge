@@ -22,6 +22,14 @@ DOMAIN-SUFFIX,apple.news
 
 
 ## 自定义 需要代理的
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,podbean.com
+DOMAIN-SUFFIX,buzzsprout.com
+DOMAIN-SUFFIX,snapkit.com
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN,ocsp.digicert.com
+
 DOMAIN,geolocation.onetrust.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,duolingo.com
