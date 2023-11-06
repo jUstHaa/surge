@@ -22,6 +22,19 @@ DOMAIN-SUFFIX,apple.news
 
 
 ## 自定义 需要代理的
+DOMAIN,icable-prod.s3.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,kyodonews.net
+DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,stheadline.com
+DOMAIN-SUFFIX,matters.town
+DOMAIN-SUFFIX,storm.mg
+DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,matters.news
+
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,buzzsprout.com
