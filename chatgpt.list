@@ -1,5 +1,7 @@
 # NAME: chatgpt
 
+DOMAIN,api.statsig.com
+DOMAIN,chat.openai.com
 DOMAIN,ios.chat.openai.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN,o33249.ingest.sentry.io
