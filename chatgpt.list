@@ -7,3 +7,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,api.revenuecat.com
+
+DOMAIN,cdn.oaistatic.com
+DOMAIN,cdn.openai.com
+DOMAIN,tcr9i.chat.openai.com

@@ -22,6 +22,22 @@ DOMAIN-SUFFIX,apple.news
 
 
 ## 自定义 需要代理的
+DOMAIN-SUFFIX,hkhl.hk
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,imagedelivery.net
+DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,soundon.fm
+DOMAIN-SUFFIX,cloud.goog
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,ibb.co
+DOMAIN-SUFFIX,textrapp.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,podbean.com
+
+
 DOMAIN,icable-prod.s3.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,kyodonews.net
 DOMAIN-SUFFIX,rthk.hk
