@@ -22,6 +22,12 @@ DOMAIN-SUFFIX,kaltura.com
 DOMAIN-SUFFIX,dolimg.com
 DOMAIN-SUFFIX,akstat.io
 
+DOMAIN,cc-api-storage.adobe.io
+DOMAIN,firefly-ps.adobe.io
+DOMAIN,livestream-cdn.adobe.io
+DOMAIN,livestream-cdn.adobe.io
+
+
 
 DOMAIN-SUFFIX,demandbase.com
 DOMAIN,assets.adobedtm.com
