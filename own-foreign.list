@@ -19,6 +19,22 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 
+DOMAIN-SUFFIX,amp-api.podcasts.apple.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ibb.co
+DOMAIN-SUFFIX,anchor.fm
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,services.bingapis.com
+DOMAIN-SUFFIX,self.events.data.microsoft.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,api.msn.com
+DOMAIN-SUFFIX,srtb.msn.com
+DOMAIN-SUFFIX,sph.com.sg
+DOMAIN-SUFFIX,kzaobao.com
+DOMAIN-SUFFIX,api2.branch.io
+DOMAIN-SUFFIX,podbean.com
+
 ##bing copilot
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,clarity.ms
