@@ -18,6 +18,10 @@ DOMAIN-KEYWORD,youtube
 
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,t-mobile.idemia.io
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,workers.dev
+
 
 DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 DOMAIN-SUFFIX,clarity.ms
