@@ -40,14 +40,14 @@ DOMAIN-SUFFIX,api2.branch.io
 DOMAIN-SUFFIX,podbean.com
 
 ##bing copilot
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,mm.bing.net
-DOMAIN-SUFFIX,microsoft-falcon.io
-DOMAIN,self.events.data.microsoft.com
-DOMAIN-SUFFIX,microsoftapp.net
-DOMAIN-SUFFIX,msn.com
-DOMAIN,sb.scorecardresearch.com
+## DOMAIN-SUFFIX,bingapis.com
+## DOMAIN-SUFFIX,clarity.ms
+## DOMAIN-SUFFIX,mm.bing.net
+## DOMAIN-SUFFIX,microsoft-falcon.io
+## DOMAIN,self.events.data.microsoft.com
+## DOMAIN-SUFFIX,microsoftapp.net
+## DOMAIN-SUFFIX,msn.com
+## DOMAIN,sb.scorecardresearch.com
 
 DOMAIN-SUFFIX,web.dev
 DOMAIN-SUFFIX,wa.me
