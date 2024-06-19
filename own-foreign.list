@@ -102,7 +102,7 @@ DOMAIN-SUFFIX,box.net
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cl.ly
-DOMAIN-SUFFIX,cloudflare.com
+## DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudmagic.com
 DOMAIN-SUFFIX,cmail19.com
