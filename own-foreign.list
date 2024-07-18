@@ -29,9 +29,7 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,in.appcenter.ms
-DOMAIN-SUFFIX,services.bingapis.com
-DOMAIN-SUFFIX,self.events.data.microsoft.com
-DOMAIN-SUFFIX,bingapis.com
+## DOMAIN-SUFFIX,self.events.data.microsoft.com
 DOMAIN-SUFFIX,api.msn.com
 DOMAIN-SUFFIX,srtb.msn.com
 DOMAIN-SUFFIX,sph.com.sg
@@ -64,7 +62,7 @@ DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adobe.com
-DOMAIN-SUFFIX,akamaized.net
+## DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,ampproject.org
@@ -83,7 +81,7 @@ DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
-DOMAIN-SUFFIX,bing.com
+## DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bit.ly
@@ -312,8 +310,8 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
+## DOMAIN-SUFFIX,windows.com
+## DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,workflowy.com
