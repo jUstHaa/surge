@@ -36,6 +36,13 @@ DOMAIN-SUFFIX,sph.com.sg
 DOMAIN-SUFFIX,kzaobao.com
 DOMAIN-SUFFIX,api2.branch.io
 DOMAIN-SUFFIX,podbean.com
+DOMAIN,analytics.adjust.com
+DOMAIN-SUFFIX,typlog.com
+DOMAIN-SUFFIX,dcard.tw
+DOMAIN-SUFFIX,firstory.me
+DOMAIN-SUFFIX,adsmoloco.com
+DOMAIN-SUFFIX,rss.com
+
 
 ##bing copilot
 ## DOMAIN-SUFFIX,bingapis.com
