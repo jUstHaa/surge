@@ -16,6 +16,8 @@ DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
+DOMAIN-SUFFIX,bsky.app
+
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,t-mobile.idemia.io
