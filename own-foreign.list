@@ -17,6 +17,11 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,bsky.network
+
 
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
