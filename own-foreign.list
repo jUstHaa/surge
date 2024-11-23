@@ -16,6 +16,12 @@ DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
+DOMAIN,pubads.g.doubleclick.net
+DOMAIN-SUFFIX,msksuiteapi.com
+DOMAIN-SUFFIX,runscribe.com
+DOMAIN-SUFFIX,rss.com
+DOMAIN-SUFFIX,adsmoloco.com
+
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
