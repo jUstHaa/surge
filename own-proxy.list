@@ -234,3 +234,4 @@ PROCESS-NAME,/Applications/Raycast.app/Contents/MacOS/Raycast
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN,news-edge.apple.com
 DOMAIN,api.ipify.org
+DOMAIN,amp-api.books.apple.com
