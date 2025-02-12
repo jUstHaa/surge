@@ -235,3 +235,5 @@ DOMAIN-SUFFIX,ghcr.io
 DOMAIN,news-edge.apple.com
 DOMAIN,api.ipify.org
 DOMAIN,amp-api.books.apple.com
+DOMAIN-SUFFIX,admaster.cc
+PROCESS-NAME,/Applications/ChatWise.app/Contents/MacOS/chatwise
