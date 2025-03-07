@@ -111,3 +111,6 @@ IP-CIDR,208.75.76.0/22,no-resolve
 DOMAIN-SUFFIX,adobeoobe.com
 DOMAIN-SUFFIX,astockcdn.net
 DOMAIN-SUFFIX,adobeccstatic.com
+DOMAIN-SUFFIX,fpjs.io
+DOMAIN-SUFFIX,flashtalking.com
+DOMAIN-SUFFIX,s3-accelerate.amazonaws.com
