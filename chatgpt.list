@@ -11,3 +11,6 @@ DOMAIN,auth0.openai.com
 DOMAIN,cdn.oaistatic.com
 DOMAIN,cdn.openai.com
 DOMAIN,tcr9i.chat.openai.com
+
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN,web-sandbox.oaiusercontent.com
