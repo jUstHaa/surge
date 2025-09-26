@@ -14,3 +14,7 @@ DOMAIN,tcr9i.chat.openai.com
 
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN,web-sandbox.oaiusercontent.com
+
+
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,persistent.oaistatic.com
