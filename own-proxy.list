@@ -37,6 +37,8 @@ DOMAIN-SUFFIX,textrapp.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,podbean.com
 
+DOMAIN-SUFFIX,telephony.goog,Proxy,extended-matching
+
 
 DOMAIN,icable-prod.s3.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,kyodonews.net
