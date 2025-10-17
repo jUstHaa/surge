@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,podbean.com
 
 DOMAIN-SUFFIX,telephony.goog,Proxy,extended-matching
+IP-CIDR,74.125.39.0/24,Proxy,no-resolve
 
 
 DOMAIN,icable-prod.s3.ap-southeast-1.amazonaws.com
