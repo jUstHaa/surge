@@ -20,3 +20,6 @@ DOMAIN,web-sandbox.oaiusercontent.com
 
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,persistent.oaistatic.com
+
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.cloudflare.com
