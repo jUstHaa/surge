@@ -23,3 +23,9 @@ DOMAIN-SUFFIX,persistent.oaistatic.com
 
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.apple.com
+# domain-suffix,gateway.icloud.com
+# domain-suffix,guzzoni.apple.com
+# domain-suffix,cp4.cloudflare.com
+# domain-suffix,gspe1-ssl.ls.apple.com
+# domain-suffix,apps.mzstatic.com
