@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,apple.news
 
 
 ## 自定义 需要代理的
+DOMAIN-SUFFIX,rsms.me
 DOMAIN-SUFFIX,hkhl.hk
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,cms-twdigitalassets.com
@@ -54,7 +55,6 @@ DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,matters.news
 
-DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,buzzsprout.com
 DOMAIN-SUFFIX,snapkit.com
@@ -195,8 +195,6 @@ DOMAIN-SUFFIX,traffic.omny.fm
 DOMAIN-SUFFIX,chrt.fm
 DOMAIN-SUFFIX,simplecastaudio.com
 DOMAIN-SUFFIX,pdst.fm
-## DOMAIN-SUFFIX,openai.com
-DOMAIN,openai.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,megaphone.fm
