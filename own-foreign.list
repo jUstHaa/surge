@@ -358,3 +358,11 @@ DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,merchant-center-analytics.goog
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,giphy.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+DOMAIN,0.datadog.pool.ntp.org
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,datadog.pool.ntp.org
+DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN,cas-bridge.xethub.hf.co
