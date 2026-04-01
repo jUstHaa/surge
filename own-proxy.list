@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,soundon.fm
 DOMAIN-SUFFIX,cloud.goog
+DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,githubusercontent.com
@@ -243,5 +244,5 @@ PROCESS-NAME,/Applications/Witsy.app/Contents/MacOS/Witsy
 DOMAIN-SUFFIX,flashtalking.com
 DOMAIN-SUFFIX,calibre-ebook.com
 PROCESS-NAME,/Applications/Kiwix.app/Contents/MacOS/Kiwix
-PROCESS-NAME,"/Applications/Comet.app/Contents/Frameworks/Comet Framework.framework/Versions/140.1.7339.21337/Helpers/Comet Helper.app/Contents/MacOS/Comet Helper"
+PROCESS-NAME,"/Applications/Comet.app/Contents/Frameworks/Comet Framework.framework/Versions/*/Helpers/Comet Helper.app/Contents/MacOS/Comet Helper"
 DOMAIN-SUFFIX,serif.com
