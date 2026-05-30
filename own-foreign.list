@@ -36,6 +36,20 @@ DOMAIN-SUFFIX,app-ads-services.com
 DOMAIN-SUFFIX,voa-video-ns.akamaized.net
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,warp.dev
+DOMAIN-SUFFIX,raycast.com
+DOMAIN-SUFFIX,profitwell.com
+DOMAIN-SUFFIX,r.wdfl.co
+DOMAIN-SUFFIX,o64374.ingest.sentry.io
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,mailchimp.com
+DOMAIN-SUFFIX,geolocation.onetrust.com
+DOMAIN-SUFFIX,connectivitycheck.android.com
+DOMAIN-SUFFIX,buzzsprout.com
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,firebase-settings.crashlytics.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+
 
 
 ## surge
